@@ -359,7 +359,7 @@ div.header div.site-description ul li a.active {
   color: #1abc9c;
 }
 div.header a.logo {
-  display: block;
+  display: none;
   position: relative;
   width: 85px;
   height: 85px;
